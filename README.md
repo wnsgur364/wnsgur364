@@ -1,5 +1,5 @@
- ![soft](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,I'mDohyeongAn!&fontAlign=80&fontAlignY=40&color=gradient)
-<h1 align="center"> 🛸 Hi, I'm Junhyeok Lee 🛸 </h1>
+ ![soft](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi, I'm Junhyeok Lee!&fontAlign=80&fontAlignY=40&color=gradient)
+
 
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
