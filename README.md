@@ -20,4 +20,4 @@
   -->
 </div>
  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wnsgur364&show_icons=true&theme=dracula"/>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wnsgur364&show_icons=true&theme=dracula"/>  
