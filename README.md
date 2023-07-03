@@ -20,4 +20,4 @@
   -->
 </div>
  <br>
-![wnsgur364 GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364&show_icons=true&theme=shadow_red)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364&show_icons=true&theme=shadow_red)
