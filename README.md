@@ -22,4 +22,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320")
