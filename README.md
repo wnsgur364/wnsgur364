@@ -21,6 +21,5 @@
 </div>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364"&theme=dracula/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320"&theme=dracula/)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320")
