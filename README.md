@@ -22,6 +22,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364"&theme=dracula/)
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wnsgur364"&theme=dracula/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320"&theme=dracula/)
 
