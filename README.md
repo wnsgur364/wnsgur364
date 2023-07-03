@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Junhyeok%20Lee&fontSize=90)
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hi,%i'm%20Junhyeok%20Lee&fontSize=40&animation=twinkling)
 
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
