@@ -2,7 +2,7 @@
 
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
- <a href="http:///"> <strong>📍 </strong> http:///</a> 
+ <a href="[http:///](http://52.79.240.22/)"> <strong>📍 </strong> [http:///](http://52.79.240.22/)</a> 
  <br>
  <h3 align="left">🛠 Skills</h3><br>
    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
