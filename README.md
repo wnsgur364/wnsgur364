@@ -3,8 +3,6 @@
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
  <a href="http://52.79.240.22"> <strong>📍 </strong> 52.79.240.22</a> 
- ![image](https://github.com/wnsgur364/wnsgur364/assets/50976860/27c9e56a-89d9-4bde-a299-8002f2d99f44)
- ![image](https://github.com/wnsgur364/wnsgur364/assets/50976860/cdca8071-5009-4f3e-9f73-1ba374f448cb)
  <br>
  <h3 align="left">🛠 Skills</h3><br>
    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
