@@ -1,9 +1,11 @@
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Hi,%20i'm%20Junhyeok%20Lee&fontSize=40&animation=twinkling)
 
 <div align="left">
+ <!-- 2023.11.27 취업 완료 추후 필요시 URL만 변경해서 사용예정
  <h3 align="left">💾 My Project url</h3>
  <a href="http://52.79.240.22"> <strong>📍 </strong> 52.79.240.22</a> 
  <br>
+ --!>
  <h3 align="left">🛠 Skills</h3><br>
    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
    <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
