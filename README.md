@@ -6,6 +6,7 @@
  <a href="http://52.79.240.22"> <strong>📍 </strong> 52.79.240.22</a> 
  <br>
  --!>
+
  <h3 align="left">🛠 Skills</h3><br>
    <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
    <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
@@ -26,3 +27,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320"\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=[wnsgur364])](https://wakatime.com/@c91a66b3-0d9f-4e33-a556-9bf26989d7c7)
+
