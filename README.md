@@ -28,4 +28,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsgur364\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=wnsgur364&layout=compact&langs_count=8&card_width=320"\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wnsgur364)](https://wakatime.com/@wnsgur364)
+[![Your Name's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wnsgur364&cache_seconds=1800)](https://wakatime.com/@wnsgur364)
+
